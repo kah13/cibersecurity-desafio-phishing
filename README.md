@@ -22,6 +22,7 @@
 
 1 - O primeiro passo para começar a atividade é abrir a máquina virtual, ir até as configurações na opção "machine", na sequência em "settings" e depois na opção "network" para alterar a placa de rede para a opção "bridget adapter".
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/1%20-%20Network%20Adapter.jpg)
 
 2 e 3 - Deve-se abrir o terminal, que inicia como usuário comum, e alterar para root com o comando "sudo su".
 
