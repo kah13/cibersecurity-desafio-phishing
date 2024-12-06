@@ -19,6 +19,7 @@
 ### Resutados
 
 ![Texto Alternativo]()
+!()
 
 O primeiro passo para começar a atividade é abrir a máquina virtual, ir até as configurações na opção "machine", na sequência em "settings" e depois na opção "network" para alterar a placa de rede para a opção "bridget adapter".
 
@@ -26,13 +27,11 @@ O primeiro passo para começar a atividade é abrir a máquina virtual, ir até 
 
 Deve-se abrir o terminal, que inicia como usuário comum, e alterar para root com o comando "sudo su".
 
-![Passo 2](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/2%20-%20Pr%C3%A9%20root.jpg)
-
 ![Passo 3](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/3%20-%20Root.jpg)
 
 O próximo passo é iniciar a aplicação setoolkit.
 
-![Texto Alternativo]()
+!(https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/4%20-%20Setoolkit.jpg)
 
 6 - A opção a ser selecionada é de Social-Engeneering Attacks.
 
