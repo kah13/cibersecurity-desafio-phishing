@@ -36,29 +36,40 @@ O próximo passo é iniciar a aplicação setoolkit.
 
 6 - A opção a ser selecionada é de Social-Engeneering Attacks.
 
-![Texto Alternativo]()
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/5%20-%20Social%20Engeneering%20Attacks.jpg)
 
 7 - Próximo passo é selecionar a opção de Website Attack Vectors.
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/6%20-%20Website%20Attack%20Vectors.jpg)
 
 8 - Deve-se selecionar a opção Credential Harvester Attack Method.
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/7%20-%20Credential%20Harvester%20Attack%20Method.jpg)
 
 9 - Agora escolha Site Cloner.
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/8%20-%20Site%20Cloner.jpg)
 
 10 - Nesse momento o próprio prompt já identifica qual é o IP da máquina e ele será necessário para clonar a URL desejada.
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/9%20-%20IP%20M%C3%A1quina.jpg)
 
 11 - Deve-se colocar a URL a ser clonada, nessa situação a utilizada foi http://www.facebook.com
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/10%20-%20URL%20Clone.jpg)
+
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/11%20-%20Link%20pronto.jpg)
 
 12 - Após colocar o IP no navegador deve-se fazer uma simulação de e-mail e senha.
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/12%20-%20Acesso%20link%20clonado.jpg)
 
 13 - Ao tentar ingressar há uma atualização na página onde há o direcionamento automático para a página oficial do Facebook.
 
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/Glitch%20-.jpg)
 
 14 - Os dados foram capturados com sucesso.
+
+![Texto Alternativo](https://github.com/kah13/cibersecurity-desafio-phishing/blob/master/Passo%20a%20passo/14%20-%20Captura%20de%20senha.jpg)
 
 
