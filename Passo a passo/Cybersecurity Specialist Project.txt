@@ -1,0 +1,15 @@
+1 - O primeiro passo para começar a atividade é abrir a máquina virtual, ir até as configurações na opção "machine", na sequência em "settings" e depois na opção "network" para alterar a placa de rede para a opção "bridget adapter".
+
+2 e 3 - Deve-se abrir o terminal, que inicia como usuário comum, e alterar para root com o comando "sudo su".
+
+4 e 5 - O próximo passo é iniciar a aplicação setoolkit.
+
+6 - A opção a ser selecionada é de Social-Engeneering Attacks.
+
+7 - Próximo passo é selecionar a opção de Website Attack Vectors.
+
+8 - Deve-se selecionar a opção Credential Harvester Attack Method.
+
+9 - Agora Site Cloner.
+
+10 - Nesse momento o próprio prompt já identifica qual é o IP da máquina e ele será necessário para clonar a URL desejada.
